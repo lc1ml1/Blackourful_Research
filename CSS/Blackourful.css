@@ -1,1 +1,48 @@
-body {background-color: whitesmoke;}
+body{
+	margin: 0;
+	font-family: montserrat, circular, san-serif;
+	background-color: black;
+	color: whitesmoke;
+	font-size: 20px;
+	line-height: 30px;
+
+}
+
+header{
+	text-align: center;
+}
+
+h2 {
+	color: white;
+	font-size: 35px;
+	margin: 40px 0 10px;
+	}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img {
+	align-content: left;
+	border-radius: 200px;
+	width: 315px;
+	height: 315px;
+	border: 15px solid white;
+}
+
+a{
+	color: blue;
+}
+
+a:hover{
+	color: whitesmoke;
+}
+
+footer {
+	text-align: center;
+	padding: 50px;
+	margin: 0;
+}
+
